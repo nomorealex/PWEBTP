@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/patriciarodrigues/Desktop/TP_PWEB/Rental4you/Rental4You/Rental4You.csproj": {}
+  },
+  "projects": {
+    "/Users/patriciarodrigues/Desktop/TP_PWEB/Rental4you/Rental4You/Rental4You.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/patriciarodrigues/Desktop/TP_PWEB/Rental4you/Rental4You/Rental4You.csproj",
+        "projectName": "Rental4You",
+        "projectPath": "/Users/patriciarodrigues/Desktop/TP_PWEB/Rental4you/Rental4You/Rental4You.csproj",
+        "packagesPath": "/Users/patriciarodrigues/.nuget/packages/",
+        "outputPath": "/Users/patriciarodrigues/Desktop/TP_PWEB/Rental4you/Rental4You/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/patriciarodrigues/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
