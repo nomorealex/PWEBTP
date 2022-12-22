@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/patriciarodrigues/Desktop/TP_PWEB/Rental4you/Rental4You/Rental4You.csproj": {}
+    "/Users/patriciarodrigues/Desktop/TPp_PWEB/Rental4You/Rental4You.csproj": {}
   },
   "projects": {
-    "/Users/patriciarodrigues/Desktop/TP_PWEB/Rental4you/Rental4You/Rental4You.csproj": {
+    "/Users/patriciarodrigues/Desktop/TPp_PWEB/Rental4You/Rental4You.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/patriciarodrigues/Desktop/TP_PWEB/Rental4you/Rental4You/Rental4You.csproj",
+        "projectUniqueName": "/Users/patriciarodrigues/Desktop/TPp_PWEB/Rental4You/Rental4You.csproj",
         "projectName": "Rental4You",
-        "projectPath": "/Users/patriciarodrigues/Desktop/TP_PWEB/Rental4you/Rental4You/Rental4You.csproj",
+        "projectPath": "/Users/patriciarodrigues/Desktop/TPp_PWEB/Rental4You/Rental4You.csproj",
         "packagesPath": "/Users/patriciarodrigues/.nuget/packages/",
-        "outputPath": "/Users/patriciarodrigues/Desktop/TP_PWEB/Rental4you/Rental4You/obj/",
+        "outputPath": "/Users/patriciarodrigues/Desktop/TPp_PWEB/Rental4You/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/patriciarodrigues/.nuget/NuGet/NuGet.Config"
