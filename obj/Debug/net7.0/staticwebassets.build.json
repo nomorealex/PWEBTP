@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kpENmJSKnJIimaOg9KZC7RNptpBJRuoQsuG4/uqRQxc=",
+  "Hash": "gkjPvwzOs4NDUTNQ9xLmXzmKUOxx+rvvpi0WCgR7xCE=",
   "Source": "Rental4You",
   "BasePath": "_content/Rental4You",
   "Mode": "Default",
@@ -1069,23 +1069,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/patriciarodrigues/Desktop/TPp_PWEB/Rental4you/obj/Debug/net7.0/scopedcss/projectbundle/Rental4You.bundle.scp.css"
-    },
-    {
-      "Identity": "/Users/patriciarodrigues/Desktop/TPp_PWEB/Rental4you/wwwroot/css/home.css",
-      "SourceId": "Rental4You",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/patriciarodrigues/Desktop/TPp_PWEB/Rental4You/wwwroot/",
-      "BasePath": "_content/Rental4You",
-      "RelativePath": "css/home.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/home.css"
     },
     {
       "Identity": "/Users/patriciarodrigues/Desktop/TPp_PWEB/Rental4you/wwwroot/css/site.css",
